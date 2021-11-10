@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lomana
 - 🌱 I’m currently learning React, Vue, Laravel, Spring Boot
-- 📫 How to reach me 
+- 📫 Can Reach me by Facebook and Youtube
 
 Facebook: https://www.facebook.com/lomana15
 
