@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Lomana
-- 🌱 I’m currently learning React, Vue, Laravel, Spring Boot
-- 📫 Can Reach me by Facebook and Youtube
+- 🌱 I’m currently learning React, Vue, Kotlin, Laravel, Java Spring Boot
+- 📫 I'm Full stack developer, I like to learn more.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=porichigo15)](https://github.com/anuraghazra/github-readme-stats)
 
 Facebook: https://www.facebook.com/lomana15
 
